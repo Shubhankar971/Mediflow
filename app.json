@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "MediFlow",
+    "slug": "mediflow-hospital-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": { "resizeMode": "contain", "backgroundColor": "#F4F8FB" },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true },
+    "android": { "adaptiveIcon": { "backgroundColor": "#E8F5F4" } }
+  }
+}
